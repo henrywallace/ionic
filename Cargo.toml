@@ -1,0 +1,7 @@
+[package]
+name = "ionic"
+version = "0.1.0"
+authors = ["Henry Wallace <henry@henrywallace.io>"]
+
+[dependencies]
+"unicode-width" = "0.1.5"
